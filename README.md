@@ -38,7 +38,8 @@ Our goal: foster a collaborative community where readers not only learn but also
 --
 
 ## Creator | Lead Dev / Lead Maintainer
-- **GitHub Repository**: https://github.com/`snchakri`  
+- **Name**: S.N.Chakri
+- **GitHub Repository**: `https://github.com/snchakri`
 - **LinkedIn**: `https://www.linkedin.com/in/snchakri/`
 
 ---
