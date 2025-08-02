@@ -1,6 +1,6 @@
 Pytheo is the name of the project aimed to create a blog page for educational, science & tech, and latest news articles for initiating a community interaction to augment intellect.
 
-Supporting page of Pytheo: https://pytheo.netlify.app/
+Supporting page of Pytheo: https://pytheo.netlify.app/ | 
 Main Page of Pytheo: https://pytheoblog.blogspot.com/
 
 Initiating Year: 2020
