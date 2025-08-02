@@ -53,7 +53,8 @@ Visit our [Team Page](https://pytheo.netlify.app/team/) to learn about contribut
 ## 📝 How to Contribute
 
 1. Fork the repo on GitHub.  
-2. Clone locally and install any dependencies (if introduced).  
+2. Clone locally and install any dependencies.
 3. Create a feature or fix branch:  
    ```bash
    git checkout -b feature/your-idea
+4. Wait for Moderator's approval to get your idea integrated into the main project, patience would be appreciated :)
