@@ -19,21 +19,27 @@ Our goal: foster a collaborative community where readers not only learn but also
 
 ---
 
-## 🔗 Links
-
-- **Main Blog**: https://pytheoblog.blogspot.com/  
-- **Supporting Site & Team**: https://pytheo.netlify.app/  
-- **GitHub Repository**: https://github.com/`snchakri`  
-- **LinkedIn**: `https://www.linkedin.com/in/snchakri/`
-
----
-
 ## 🛠️ Tech Stack
 
 1. **HTML5** – Semantic markup for accessibility and SEO.  
 2. **CSS3** – Responsive, modular styles (Flexbox / Grid).  
 3. **JavaScript (ES2020)** – Modern scripting for interactivity and dynamic content.  
 4. **Netlify** – Continuous deployment, hosting & team management.
+
+---
+
+## 🔗 Links
+
+- **Main Blog**: https://pytheoblog.blogspot.com/  
+- **Supporting Site & Team**: https://pytheo.netlify.app/
+- **X (Formerly Twitter)**: https://x.com/Pytheo3
+- **Facebook Page**: https://www.facebook.com/people/Pytheo/100067120202462/
+
+--
+
+## Creator | Lead Dev / Lead Maintainer
+- **GitHub Repository**: https://github.com/`snchakri`  
+- **LinkedIn**: `https://www.linkedin.com/in/snchakri/`
 
 ---
 
