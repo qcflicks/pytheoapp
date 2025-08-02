@@ -35,11 +35,11 @@ Our goal: foster a collaborative community where readers not only learn but also
 - **X (Formerly Twitter)**: https://x.com/Pytheo3
 - **Facebook Page**: https://www.facebook.com/people/Pytheo/100067120202462/
 
---
+---
 
 ## Creator | Lead Dev / Lead Maintainer
 - **Name**: S.N.Chakri
-- **GitHub Repository**: `https://github.com/snchakri`
+- **GitHub**: `https://github.com/snchakri`
 - **LinkedIn**: `https://www.linkedin.com/in/snchakri/`
 
 ---
