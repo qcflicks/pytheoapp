@@ -1,6 +1,6 @@
 # Pytheo
 
-> A open-source project to initiate a community-driven blog for education, science & technology, and the latest news—fueling collective intellect since 2020.
+> An open-source project to initiate a community-driven blog for education, science & technology, and the latest news—fueling collective intellect since 2020.
 
 ---
 
