@@ -13,3 +13,5 @@ Toolkit used:
   2. CSS3
   3. JavaScript (2020 - ECMAScript 2020 or ES2020)
   4. NETLIFY (hosting & management)
+
+Supporting Team (for publishing & interacting with the community): https://pytheo.netlify.app/team/ 
